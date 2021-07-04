@@ -57,5 +57,12 @@ table td
 {
     background-color: #ffff00;
 }
-
+footer
+{
+  color:black;
+  position:fixed;
+  left:22%;
+  bottom:20%;
+   Font-size:13px
+}
 
